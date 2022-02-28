@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/bullrusni/bullrusni
 cd bullrusni 
-chmod +x *ll
+chmod +x install bullrusni
 ./install
 ```
 
