@@ -1,16 +1,17 @@
-### Hi there 👋
+### Для удалённого запуска ДДоС 
 
-<!--
-**bullrusni/bullrusni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Подготовка к работе:
+```
+git clone https://github.com/bullrusni/bullrusni
+cd bullrusni 
+chmod +x *ll
+./install
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Работа:
+```
+./Bull
+```
+
+Приложение интерактивно - надо будет ввести адрес и порт вручную, когда оно на старте спросит
