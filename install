@@ -10,4 +10,3 @@ sleep 10
 apt-cache policy docker-ce
 sleep 0.5
 sudo apt install docker-ce -y
-sed -i -e 's/\r$//' Bull

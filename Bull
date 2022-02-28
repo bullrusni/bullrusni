@@ -1,7 +1,0 @@
-#!/bin/bash
-
-echo "Введите сайт/IP: "
-read site
-echo "Введите порт: "
-read port
-sudo docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l $site:$port
